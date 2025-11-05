@@ -1,0 +1,4 @@
+body { margin:0; font-family: Inter, system-ui, sans-serif; background:#0e0b16; color:#f5f3e7;}
+.page { padding: 1rem; }
+.bottom-nav { position: fixed; bottom:0; left:0; right:0; display:flex; justify-content:space-around; background:#111; padding:0.75rem 0;}
+.bottom-nav a { color:#fff; text-decoration:none; font-weight:600; }
